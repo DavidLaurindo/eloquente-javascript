@@ -183,7 +183,7 @@ if (!isNaN(theNumber))
 
 Com essa modificação, se você fornecer "queijo" como argumento de entrada, nenhuma saída será retornada.
 
-A palavra-chave `if` executa ou não uma declaração baseada no resultado de uma expressão Booleana. Tal expressão é escrita entre parênteses logo após a palavra-chave e seguida por uma declaração a ser executada.
+CONTINUAR AQUI A palavra-chave `if` executa ou não uma declaração baseada no resultado de uma expressão Booleana. Tal expressão é escrita entre parênteses logo após a palavra-chave e seguida por uma declaração a ser executada.
 
 A função `isNaN` é uma função padrão do JavaScript que retorna `true` apenas se o argumento fornecido for `NaN`. A função `Number` retorna `NaN` quando você fornece a ela uma string que não representa um número válido. Por isso, a condição se traduz a "a não ser que `theNumber` não seja um número, faça isso".
 
