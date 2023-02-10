@@ -248,7 +248,7 @@ while (number <= 12) {
 //   … etcetera
 ```
 
-Uma declaração que inicia com a palavra-chave `while` cria um loop. A palavra `while` é acompanhada por uma expressão entre parênteses e seguida por uma declaração, similar ao `if`. O loop continua executando a declaração enquanto a expressão produzir um valor que, após convertido para o tipo Booleano, seja `true`.
+## CONTINUAR AQUI UUUUUUUUUUU Uma declaração que inicia com a palavra-chave `while` cria um loop. A palavra `while` é acompanhada por uma expressão entre parênteses e seguida por uma declaração, similar ao `if`. O loop continua executando a declaração enquanto a expressão produzir um valor que, após convertido para o tipo Booleano, seja `true`.
 
 Nesse loop, queremos imprimir o número atual e somar dois em nossa variável. Sempre que precisarmos executar múltiplas declarações dentro de um loop, nós as envolvemos com chaves (`{` e `}`). As chaves, para declarações, são similares aos parênteses para as expressões, agrupando e fazendo com que sejam tratadas como uma única declaração. Uma sequência de declarações envolvidas por chaves é chamada de _bloco_.
 
